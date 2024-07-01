@@ -26,7 +26,7 @@ public class Dose {
     @Enumerated(value = EnumType.STRING)
     VaccineBrand vaccineBrand;
 
-    String serialNo;
+    String serialNo;//UUID
 
     @CreationTimestamp
     Date dateOfVaccination;

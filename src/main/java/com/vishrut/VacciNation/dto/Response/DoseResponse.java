@@ -20,8 +20,6 @@ public class DoseResponse {
 
     boolean vaccinated;
 
-    String doctorName;
-
     VaccineBrand vaccineBrand;
 
     Date dateOfVaccination;
