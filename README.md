@@ -18,7 +18,7 @@ Below are the key functionalities and their detailed workings:
 - **Using Application Number:** Users can use their unique application number to book an appointment for their vaccine dose.
 - **Doctor Registration:** Doctors are registered in the system with a unique Doctor ID, categorized by their specializations.
 - **Specialization-Based Booking:** When booking an appointment, users can select a doctor based on the desired specialization. The system checks for available doctors in that specialization and books the appointment accordingly.
-- **Real-Time Email Notifications:* Upon successful booking, the user receives an email containing the booking confirmation, doctor's details, and a unique booking ID.
+- **Real-Time Email Notifications:** Upon successful booking, the user receives an email containing the booking confirmation, doctor's details, and a unique booking ID.
   
 **3) Dose Administration**
 - **Tracking Dose Details:** When a user receives a vaccine dose, the system records the dose details, including information about the doctor who administered the vaccine.
